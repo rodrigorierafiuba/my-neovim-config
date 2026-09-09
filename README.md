@@ -27,7 +27,6 @@ Designed primarily for C/C++, Rust, Python and Web Development, with a focus on 
 - Buffer navigation
 - Split-window workflow
 - Formatting and linting
-- Git integration
 
 ## Languages
 
@@ -92,9 +91,6 @@ nvim/
         ├── lsp.lua
         ├── telescope.lua
         ├── treesitter.lua
-        ├── formatting.lua
-        ├── debugging.lua
-        ├── git.lua
         └── ui.lua
 ```
 ## Windows Installation
