@@ -147,6 +147,13 @@ mv ~/.config/nvim ~/.config/nvim.backup
 
 Clone the repository:
 
+Clone using HTTPS:
+
+```bash
+git clone https://github.com/rodrigorierafiuba/my-neovim-config.git ~/.config/nvim
+```
+
+or, if you have `ssh` configured:
 ```bash
 git clone git@github.com:rodrigorierafiuba/my-neovim-config.git ~/.config/nvim
 ```
